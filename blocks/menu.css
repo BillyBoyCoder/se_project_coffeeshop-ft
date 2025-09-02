@@ -1,7 +1,4 @@
 .menu {
-  border: dotted 2px #ccc;
-  max-width: 1160px;
-  margin: auto;
   background-image: url("../images/background_menu.svg");
   background-size: cover;
   background-position: center;
@@ -35,7 +32,7 @@
   font-family: "Noto Serif", Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 19px;
   line-height: 30px;
   text-align: center;
 }
